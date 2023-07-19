@@ -1,0 +1,40 @@
+
+#content {
+    font-family: 'Times New Roman', Times, serif;
+  padding-left: 100PX;
+    color: rgb(225, 241, 0);
+    background: url(images/7fe774bbacce09f00cb5b2e3cbc48db3.png);
+    height: 500px;
+}
+#p1{
+    color: white;
+    text-align: center;
+}
+#i1{
+    height: 100px;
+    width: 90px;
+ 
+}
+#h2{
+    color: brown;
+}
+#i3{
+    height: 250px;
+    width: 200px;
+}
+#contact{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.form{
+    display: flex;
+   flex-direction: column;
+   box-sizing: border-box;
+   align-items: center;
+   margin: 20px 0px;
+   width: 50%;
+}
